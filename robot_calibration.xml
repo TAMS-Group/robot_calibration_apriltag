@@ -1,0 +1,7 @@
+<library path="librobot_calibration_apriltag">
+  <class name="robot_calibration/AprilTagFinder"
+         type="robot_calibration::AprilTagFinder"
+         base_class_type="robot_calibration::FeatureFinder">
+    <description>Feature finder that detects apriltags</description>
+  </class>
+</library>
